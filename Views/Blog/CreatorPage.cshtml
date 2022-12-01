@@ -1,0 +1,28 @@
+﻿@using BlogMVC.Models
+@model BlogEntry
+
+@{
+    ViewData["Title"] = "Create Post";
+}
+
+<link href="~/css/froala_editor.pkgd.min.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="~/js/froala_editor.pkgd.min.js"></script>
+
+<h4 class="text-center mb-5 mt-5">Create Post</h4>
+<hr/>
+
+<div>
+
+    <form action="CreatorPage" method="POST">
+        <input hidden asp-for="Id" />
+        <textarea asp-for=Content id="myEditor"></textarea>
+        <button class="btn btn-light mt-4">Submit</button>
+
+    </form>
+
+    <script>
+        var editor = new FroalaEditor("#myEditor", {
+            toolbarButtons: [['bold', 'italic', 'underline', 'strikeThrough', 'subscript', 'superscript'], ['fontFamily', 'fontSize', 'textColor', 'backgroundColor'], ['inlineClass', 'inlineStyle', 'clearFormatting']]
+        });
+    </script>
+</div>

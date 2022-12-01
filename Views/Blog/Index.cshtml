@@ -1,0 +1,24 @@
+﻿@using BlogMVC.Models
+@model List<BlogEntry>
+
+@{
+    ViewData["Title"] = "Posts";
+}
+
+<h4 class="text-center mb-5 mt-5">Posts</h4>
+<hr/>
+
+    <div>
+    @foreach(BlogEntry post in @Model)
+    {
+        <div class="card shadow mb-4">
+            <div class="card-body">
+                @Html.Raw(@post.Content)
+            </div>
+
+            <div class="card-footer">
+                @Html.ActionLink("Edit", "CreatorPage", new {Id = post.Id}, new {@class="btn btn-sm btn-light"})
+            </div>
+        </div>
+    }
+</div>

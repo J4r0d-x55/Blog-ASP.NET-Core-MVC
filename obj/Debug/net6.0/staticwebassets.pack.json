@@ -1,0 +1,845 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlogMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlogMVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\froala_editor.css",
+      "PackagePath": "staticwebassets\\css\\froala_editor.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\froala_editor.min.css",
+      "PackagePath": "staticwebassets\\css\\froala_editor.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\froala_editor.pkgd.css",
+      "PackagePath": "staticwebassets\\css\\froala_editor.pkgd.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\froala_editor.pkgd.min.css",
+      "PackagePath": "staticwebassets\\css\\froala_editor.pkgd.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\froala_style.css",
+      "PackagePath": "staticwebassets\\css\\froala_style.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\froala_style.min.css",
+      "PackagePath": "staticwebassets\\css\\froala_style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins.pkgd.css",
+      "PackagePath": "staticwebassets\\css\\plugins.pkgd.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins.pkgd.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins.pkgd.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\char_counter.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\char_counter.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\char_counter.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\char_counter.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\code_view.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\code_view.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\code_view.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\code_view.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\colors.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\colors.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\colors.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\draggable.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\draggable.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\draggable.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\draggable.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\emoticons.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\emoticons.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\emoticons.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\emoticons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\file.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\file.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\file.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\file.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\files_manager.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\files_manager.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\files_manager.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\files_manager.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\fullscreen.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\fullscreen.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\fullscreen.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\fullscreen.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\help.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\help.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\help.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\help.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\image.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\image.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\image.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\image.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\image_manager.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\image_manager.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\image_manager.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\image_manager.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\line_breaker.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\line_breaker.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\line_breaker.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\line_breaker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\markdown.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\markdown.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\markdown.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\markdown.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\quick_insert.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\quick_insert.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\quick_insert.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\quick_insert.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\special_characters.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\special_characters.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\special_characters.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\special_characters.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\table.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\table.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\table.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\trim_video.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\trim_video.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\trim_video.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\trim_video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\video.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\video.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\plugins\\video.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\video.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\themes\\dark.css",
+      "PackagePath": "staticwebassets\\css\\themes\\dark.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\themes\\dark.min.css",
+      "PackagePath": "staticwebassets\\css\\themes\\dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\themes\\gray.css",
+      "PackagePath": "staticwebassets\\css\\themes\\gray.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\themes\\gray.min.css",
+      "PackagePath": "staticwebassets\\css\\themes\\gray.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\themes\\royal.css",
+      "PackagePath": "staticwebassets\\css\\themes\\royal.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\themes\\royal.min.css",
+      "PackagePath": "staticwebassets\\css\\themes\\royal.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\third_party\\embedly.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\embedly.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\third_party\\embedly.min.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\embedly.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\third_party\\font_awesome.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\font_awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\third_party\\font_awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\font_awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\third_party\\image_tui.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\image_tui.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\third_party\\image_tui.min.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\image_tui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\third_party\\spell_checker.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\spell_checker.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\css\\third_party\\spell_checker.min.css",
+      "PackagePath": "staticwebassets\\css\\third_party\\spell_checker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\froala_editor.min.js",
+      "PackagePath": "staticwebassets\\js\\froala_editor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\froala_editor.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\froala_editor.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\ar.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\bs.js",
+      "PackagePath": "staticwebassets\\js\\languages\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\cs.js",
+      "PackagePath": "staticwebassets\\js\\languages\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\da.js",
+      "PackagePath": "staticwebassets\\js\\languages\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\de.js",
+      "PackagePath": "staticwebassets\\js\\languages\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\el.js",
+      "PackagePath": "staticwebassets\\js\\languages\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\en_ca.js",
+      "PackagePath": "staticwebassets\\js\\languages\\en_ca.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\en_gb.js",
+      "PackagePath": "staticwebassets\\js\\languages\\en_gb.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\es.js",
+      "PackagePath": "staticwebassets\\js\\languages\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\et.js",
+      "PackagePath": "staticwebassets\\js\\languages\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\fa.js",
+      "PackagePath": "staticwebassets\\js\\languages\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\fi.js",
+      "PackagePath": "staticwebassets\\js\\languages\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\fr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\he.js",
+      "PackagePath": "staticwebassets\\js\\languages\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\hr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\hu.js",
+      "PackagePath": "staticwebassets\\js\\languages\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\id.js",
+      "PackagePath": "staticwebassets\\js\\languages\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\it.js",
+      "PackagePath": "staticwebassets\\js\\languages\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\ja.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\ko.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\ku.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\me.js",
+      "PackagePath": "staticwebassets\\js\\languages\\me.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\nb.js",
+      "PackagePath": "staticwebassets\\js\\languages\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\nl.js",
+      "PackagePath": "staticwebassets\\js\\languages\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\pl.js",
+      "PackagePath": "staticwebassets\\js\\languages\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\pt_br.js",
+      "PackagePath": "staticwebassets\\js\\languages\\pt_br.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\pt_pt.js",
+      "PackagePath": "staticwebassets\\js\\languages\\pt_pt.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\ro.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\ru.js",
+      "PackagePath": "staticwebassets\\js\\languages\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\sk.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\sl.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\sr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\sv.js",
+      "PackagePath": "staticwebassets\\js\\languages\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\th.js",
+      "PackagePath": "staticwebassets\\js\\languages\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\tr.js",
+      "PackagePath": "staticwebassets\\js\\languages\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\uk.js",
+      "PackagePath": "staticwebassets\\js\\languages\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\vi.js",
+      "PackagePath": "staticwebassets\\js\\languages\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\zh_cn.js",
+      "PackagePath": "staticwebassets\\js\\languages\\zh_cn.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\languages\\zh_tw.js",
+      "PackagePath": "staticwebassets\\js\\languages\\zh_tw.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\align.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\align.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\char_counter.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\char_counter.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\code_beautifier.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\code_beautifier.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\code_view.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\code_view.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\colors.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\colors.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\cryptojs.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\cryptojs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\draggable.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\draggable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\edit_in_popup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\edit_in_popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\emoticons.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\emoticons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\entities.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\entities.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\file.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\file.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\files_manager.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\files_manager.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\font_family.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\font_family.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\font_size.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\font_size.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\forms.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\forms.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\fullscreen.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\fullscreen.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\help.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\help.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\image.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\image.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\image_manager.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\image_manager.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\inline_class.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\inline_class.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\inline_style.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\inline_style.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\line_breaker.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\line_breaker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\line_height.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\line_height.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\link.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\link.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\lists.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\lists.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\markdown.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\markdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\paragraph_format.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\paragraph_format.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\paragraph_style.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\paragraph_style.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\print.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\quick_insert.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\quick_insert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\quote.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\quote.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\save.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\save.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\special_characters.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\special_characters.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\table.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\track_changes.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\track_changes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\trim_video.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\trim_video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\url.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\url.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\video.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\plugins\\word_paste.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\word_paste.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\third_party\\embedly.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\embedly.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\third_party\\font_awesome.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\font_awesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\third_party\\image_tui.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\image_tui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\third_party\\showdown.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\showdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\js\\third_party\\spell_checker.min.js",
+      "PackagePath": "staticwebassets\\js\\third_party\\spell_checker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Blog_asp.net\\BlogMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlogMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlogMVC.props",
+      "PackagePath": "build\\BlogMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogMVC.props",
+      "PackagePath": "buildMultiTargeting\\BlogMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlogMVC.props",
+      "PackagePath": "buildTransitive\\BlogMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
